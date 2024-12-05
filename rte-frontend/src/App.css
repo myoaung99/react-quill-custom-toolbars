@@ -1,0 +1,35 @@
+.ql-align-center {
+  @apply text-center;
+}
+
+.ql-indent-1 {
+  @apply ml-4;
+}
+
+.ql-indent-2 {
+  @apply ml-8;
+}
+
+.ql-indent-3 {
+  @apply ml-12;
+}
+
+.ql-indent-4 {
+  @apply ml-16;
+}
+
+.ql-indent-5 {
+  @apply ml-20;
+}
+
+.ql-indent-6 {
+  @apply ml-24;
+}
+
+.ql-indent-7 {
+  @apply ml-28;
+}
+
+.ql-indent-8 {
+  @apply ml-32;
+}
